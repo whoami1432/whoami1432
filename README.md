@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python, JavaScript, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js, Express.js
+- **Languages:** JavaScript
+- **Web Development:** HTML, React, Node.js, Express.js, Nest.js, Fastify
 - **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools & Platforms:** Git, Docker, AWS, GitHub Actions
+- **Tools & Platforms:** Git
 
 ## 📈 GitHub Stats
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 - [LinkedIn](https://www.linkedin.com/in/whoami1432)
 - [Twitter](https://twitter.com/whoami1432)
-- [Email](mailto:whoami1432@example.com)
+- [Email](mailto:saravanakumara512@gmail.com)
 
 ## 🚀 Projects
 
