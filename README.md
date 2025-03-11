@@ -16,21 +16,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/whoami1432)
-- [Twitter](https://twitter.com/whoami1432)
 - [Email](mailto:saravanakumara512@gmail.com)
-
-## 🚀 Projects
-
-Here are a few projects I've worked on:
-
-- [Project 1](https://github.com/whoami1432/project1): A brief description of what this project does.
-- [Project 2](https://github.com/whoami1432/project2): A brief description of what this project does.
-- [Project 3](https://github.com/whoami1432/project3): A brief description of what this project does.
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
-
-## 📫 How to reach me
-
-I'm always open to connecting with fellow developers and collaborators. You can reach me through my social profiles or directly via email.
-
-Thanks for stopping by! Have a great day! 😊
